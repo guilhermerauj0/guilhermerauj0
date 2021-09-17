@@ -10,4 +10,4 @@ My name is Arthur Guilherme. Computer Engineering student in Brazil.  In love wi
 
 - 🌱 I’m currently learning C | Android Studio | Kotlin
 - 📫 How to reach me:
-[<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}"/>](https://www.linkedin.com/in/arthur-guilherme-araújo-089082207/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthur-guilherme-araújo-089082207/)
