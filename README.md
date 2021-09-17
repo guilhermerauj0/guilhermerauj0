@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 My name is Arthur Guilherme. Computer Engineering student in Brazil.  In love with Mobile
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermerauj0&show_icons=true&theme=radical)
 
 - 🌱 I’m currently learning C | Android Studio | Kotlin
 - 📫 How to reach me:
