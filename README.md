@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-My name is Arthur Guilherme. Computer Engineering student in Brazil.  In love with Mobile
+My name is Arthur Guilherme. Computer Engineering student in Brazil and in love with Mobile. Here you can find some repository of apps where i had the pleasure of create or study them. 
 
 - 🌱 I’m currently learning Kotlin | Android Studio 
 - 📫 How to reach me:<br/><br/> 
